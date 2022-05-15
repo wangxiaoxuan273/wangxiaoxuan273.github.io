@@ -1,9 +1,9 @@
 # Welcome to Xiaoxuan Wang's Site!
 
-I'm super happy that you visited this page :) But this page is still a work in progress.
+I'm super happy that you visited this page, thank you :)
 
 ## Mini-résumé
-I'm a software engineer from Microsoft, currently working on Azure Container Registry. Before Microsoft I worked for Huawei. I'm skilled in full stack development, containers, Golang and C++. Here's my formal résumé and my LinkedIn profile.
+I'm a software engineer from Microsoft, currently working on Azure Container Registry. Before Microsoft I worked for Huawei. I'm skilled in full stack development, containers, Golang, C++ and I speak fluent English and Mandarin Chinese. Here's my formal résumé and my LinkedIn profile.
 
 ## Coding community presence
 I'm active on GitHub, LeetCode China, Codeforces and Exercism. I usually use the name wangxiaoxuan273 or leafdulce.

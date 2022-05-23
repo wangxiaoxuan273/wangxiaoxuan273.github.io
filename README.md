@@ -10,10 +10,13 @@ Scroll down for the English version.
 我喜欢在GitHub，LeetCode中国站，Codeforces和Exercism出没。我的常用id是leafdulce。
 
 ## 收藏夹
-都是我最喜欢的CS/编码学习资源。
+一些我最喜欢的CS/编程学习资源。
 
 ## 个人博客
-那啥，还没搭建好。再等等。
+还没搭建好。再等等。哈哈。
+
+
+***
 
 
 ## Mini-résumé
